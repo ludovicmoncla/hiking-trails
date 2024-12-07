@@ -1,1 +1,1 @@
-# hiking-trails
+# Hiking trails
