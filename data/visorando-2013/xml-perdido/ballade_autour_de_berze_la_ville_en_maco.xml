@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <!-- title of the resource -->
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p>
+          <!-- Information about distribution of the resource -->
+        </p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>
+          <!-- Information about source from which the resource derives -->
+        </p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>
+          <w lemma="cheminer" type="V">Cheminer</w>
+          <w lemma="à" type="PREP">à</w>
+          <offset type="inclusion">
+            <w lemma="travers" type="N">travers</w>
+          </offset>
+          <w lemma="le" type="DET">les</w>
+          <w lemma="pré" type="N">prés</w>
+          <w lemma="entourer" type="V">entourés</w>
+          <w lemma="de" type="PREP">de</w>
+          <w lemma="haie" type="N">haies</w>
+          <w type="N" lemma="">vives,pour</w>
+          <w lemma="ensuite" type="ADV">ensuite</w>
+          <phr type="verb_phrase" subtype="motion" xml:id="phr.0">
+            <w lemma="approcher" type="V" subtype="motion_final">approcher</w>
+            <placeName n="1" xml:id="ene.0">
+              <geogName type="" subtype="">
+                <w lemma="le" type="DET">le</w>
+                <geogFeat>
+                  <w lemma="château" type="N">château</w>
+                  <w lemma="féodal" type="A">féodal</w>
+                </geogFeat>
+                <w lemma="de" type="PREP">de</w>
+                <placeName n="0" xml:id="ene.1">
+                  <name>
+                    <w type="NPr" lemma="">BERZE</w>
+                    <w lemma="le" type="DET">le</w>
+                    <w type="NPr" lemma="">CHATEL</w>
+                  </name>
+                </placeName>
+              </geogName>
+            </placeName>
+            <w lemma="et" type="CONJC">et</w>
+            <w lemma="son" type="DET">ses</w>
+            <w lemma="treize" type="N">treize</w>
+            <term type="N">
+              <w lemma="tour" type="N">tours</w>
+            </term>
+          </phr> ,<w lemma="effleurer" type="V">effleurer</w>
+          <placeName n="1" xml:id="ene.2">
+            <geogName type="" subtype="">
+              <w lemma="le" type="DET">les</w>
+              <geogFeat>
+                <w lemma="bois" type="N">bois</w>
+              </geogFeat>
+              <w lemma="de" type="PREP">de</w>
+              <placeName n="0" xml:id="ene.3">
+                <name>
+                  <w type="NPr" lemma="">VAUX</w>
+                </name>
+              </placeName>
+            </geogName>
+          </placeName>
+          <w lemma="et" type="CONJC">et</w>
+          <w lemma="découvrir" type="V">découvrir</w>
+          <w lemma="le" type="DET">le</w>
+          <placeName n="0" xml:id="ene.4">
+            <name>
+              <w type="NPr" lemma="">VAL</w>
+              <w type="NPr" lemma="">LAMARTINIEN</w>
+            </name>
+          </placeName>
+          <w lemma="puis" type="ADV">puis</w>
+          <phr type="verb_phrase" subtype="motion" xml:id="phr.1">
+            <w lemma="gagner" type="V" subtype="motion_final">gagner</w>
+            <rs type="ene">
+              <rs type="unknown" subtype="plural">
+                <w lemma="le" type="DET">les</w>
+                <term type="unknown">
+                  <w lemma="vigne" type="N">vignes</w>
+                </term>
+                <w lemma="de" type="PREP">de</w>
+                <placeName n="0" xml:id="ene.5">
+                  <name>
+                    <w type="NPr" lemma="">VERZE</w>
+                  </name>
+                </placeName>
+              </rs>
+            </rs>
+          </phr>
+          <w lemma="de" type="PREP">de</w>
+          <phr type="verb_phrase" subtype="motion" xml:id="phr.2">
+            <w lemma="marcher" type="V" subtype="motion_median">marcher</w>
+            <offset type="direction" subtype="final">
+              <w lemma="sur" type="PREP">sur</w>
+            </offset>
+            <geogFeat>
+              <w lemma="le" type="DET">la</w>
+              <w lemma="crête" type="N">crête</w>
+            </geogFeat>
+          </phr>
+          <w lemma="qui" type="PRO">qui</w>
+          <w lemma="préfigurer" type="V">préfigure</w>
+          <rs type="ene">
+            <rs type="unknown" subtype="plural">
+              <w lemma="le" type="DET">les</w>
+              <term type="unknown">
+                <w lemma="roche" type="N">roche</w>
+              </term>
+              <w lemma="de" type="PREP">de</w>
+              <placeName n="0" xml:id="ene.6">
+                <name>
+                  <w type="NPr" lemma="">VERGISSON</w>
+                </name>
+              </placeName>
+              <w lemma="et" type="CONJC">et</w>
+              <w lemma="de" type="PREP">de</w>
+              <placeName n="0" xml:id="ene.7">
+                <name>
+                  <w type="NPr" lemma="">SOLUTRE</w>
+                </name>
+              </placeName>
+            </rs>
+          </rs> .</s>
+        <s>
+          <w lemma="un" type="DET">Une</w>
+          <w lemma="ballade" type="N">ballade</w>
+          <w lemma="qui" type="PRO">qui</w>
+          <w lemma="vous" type="PRO">vous</w>
+          <w type="V" lemma="">coutera</w>
+          <w lemma="quelque" type="PRO">quelques</w>
+          <w lemma="effort" type="N">efforts</w>
+          <w lemma="largement" type="ADV">largement</w>
+          <w lemma="récompenser" type="V">récompensés</w>
+          <w lemma="par" type="PREP">par</w>
+          <w lemma="le" type="DET">les</w>
+          <w lemma="panorama" type="N">panoramas</w>
+          <w lemma="que" type="PRO">qu'</w>
+          <w lemma="elle" type="PRO">elle</w>
+          <w lemma="vous" type="PRO">vous</w>
+          <w lemma="offrir" type="V">offre</w> .</s>
+        <s />
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <!-- title of the resource -->
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p>
+          <!-- Information about distribution of the resource -->
+        </p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>
+          <!-- Information about source from which the resource derives -->
+        </p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>
+          <rs type="ene">
+            <rs type="unknown">
+              <term type="unknown">
+                <w lemma="départ" type="N">Départ</w>
+              </term>
+              <w lemma="de" type="PREP">de</w>
+              <placeName n="0" xml:id="ene.0">
+                <name>
+                  <w type="NPr" lemma="">Saint</w>
+                  <w lemma="Jean" type="NPr">Jean</w>
+                  <w lemma="de" type="PREP">de</w>
+                  <w lemma="Marcel" type="NPr">Marcel</w>
+                </name>
+              </placeName>
+            </rs>
+          </rs> (<w lemma="de" type="PREP">de</w>
+          <w lemma="le" type="DET">l'</w>
+          <w lemma="église" type="N">église</w> )<phr type="verb_phrase" subtype="motion" xml:id="phr.0">
+            <w lemma="suivre" type="V" subtype="motion_median">suivre</w>
+            <rs type="ene">
+              <rs type="unknown">
+                <w lemma="le" type="DET">la</w>
+                <term type="unknown">
+                  <w lemma="direction" type="N">direction</w>
+                </term>
+                <placeName n="0" xml:id="ene.1">
+                  <name>
+                    <w type="NPr" lemma="">Soupis</w>
+                  </name>
+                </placeName>
+              </rs>
+            </rs>
+          </phr> ,<w lemma="à" type="PREP">à</w>
+          <offset type="orientation">
+            <w lemma="gauche" type="N">gauche</w>
+          </offset>
+          <w lemma="prendre" type="V">prendre</w>
+          <w lemma="le" type="DET">le</w>
+          <w lemma="chemin" type="N">chemin</w>
+          <w lemma="baliser" type="V">balisé</w> ,<phr type="verb_phrase" subtype="motion" xml:id="phr.1">
+            <w lemma="descendre" type="V" subtype="motion_final">descendre</w>
+            <geogFeat>
+              <w lemma="le" type="DET">le</w>
+              <w lemma="chemin" type="N">chemin</w>
+              <w lemma="rocailleux" type="A">rocailleux</w>
+            </geogFeat>
+            <offset type="direction" subtype="final">
+              <w lemma="jusque" type="PREP">jusqu'</w>
+              <w lemma="à" type="PREP">à</w>
+            </offset>
+            <placeName n="0" xml:id="ene.2">
+              <name>
+                <w type="NPr" lemma="">Vialegoudou</w>
+              </name>
+            </placeName>
+          </phr> .</s>
+        <s>
+          <w lemma="prendre" type="V">Prendre</w>
+          <w lemma="le" type="DET">la</w>
+          <w lemma="route" type="N">route</w>
+          <w lemma="jusque" type="PREP">jusqu'</w>
+          <w lemma="au" type="PREPDET">au</w>
+          <w lemma="moulin" type="N">moulin</w>
+          <w lemma="de" type="PREP">de</w>
+          <w type="N" lemma="">boussac</w> (<placeName n="0" xml:id="ene.3">
+            <name>
+              <w type="NPr" lemma="">Saint</w>
+              <w lemma="Paul" type="NPr">Paul</w>
+            </name>
+          </placeName> )<phr type="verb_phrase" subtype="motion" xml:id="phr.2">
+            <w lemma="suivre" type="V" subtype="motion_median">suivre</w>
+            <geogFeat>
+              <w lemma="le" type="DET">le</w>
+              <w lemma="chemin" type="N">chemin</w>
+            </geogFeat>
+          </phr>
+          <w lemma="baliser" type="V">balisé</w>
+          <rs type="ene">
+            <rs type="unknown">
+              <w lemma="le" type="DET">le</w>
+              <term type="unknown">
+                <w lemma="long" type="N">long</w>
+              </term>
+              <w lemma="du" type="PREPDET">du</w>
+              <placeName n="0" xml:id="ene.4">
+                <name>
+                  <w type="NPr" lemma="">Cérou</w>
+                </name>
+              </placeName>
+            </rs>
+          </rs>
+          <w lemma="faire" type="V">faites</w>
+          <w lemma="attention" type="N">attention</w>
+          <w lemma="par" type="PREP">par</w>
+          <w lemma="temps" type="N">temps</w>
+          <w lemma="humide" type="A">humide</w>
+          <w lemma="au" type="PREPDET">au</w>
+          <w lemma="passage" type="N">passage</w>
+          <w lemma="de" type="PREP">de</w>
+          <w lemma="le" type="DET">la</w>
+          <w lemma="passerelle" type="N">passerelle</w>
+          <w lemma="qui" type="PRO">qui</w>
+          <phr type="verb_phrase" subtype="motion" xml:id="phr.3">
+            <w lemma="longer" type="V" subtype="motion_median">longe</w>
+            <geogFeat>
+              <w lemma="le" type="DET">le</w>
+              <w lemma="ruisseau" type="N">ruisseau</w>
+            </geogFeat>
+          </phr> .</s>
+        <s>
+          <w lemma="vous" type="PRO">Vous</w>
+          <phr type="verb_phrase" subtype="motion" xml:id="phr.4">
+            <w lemma="arriver" type="V" subtype="motion_final">arrivez</w>
+            <offset type="direction" subtype="final">
+              <w lemma="au" type="PREPDET">au</w>
+            </offset>
+            <term type="N">
+              <w lemma="pont" type="N">pont</w>
+              <w lemma="de" type="PREP">de</w>
+              <w lemma="mal" type="N">maux</w>
+            </term>
+          </phr> (<w lemma="16ème" type="N">16ème</w>
+          
+          <w lemma="le" type="DET">le</w>
+          <w lemma="chemin" type="N">chemin</w>
+          <w lemma="à" type="PREP">à</w>
+          <offset type="orientation">
+            <w lemma="gauche" type="N">gauche</w>
+          </offset> (<w lemma="pas" type="ADV">pas</w>
+          <w lemma="de" type="PREP">de</w>
+          
+          <w lemma="vous" type="PRO">vous</w>
+          <w lemma="mener" type="V">mènera</w>
+          <w lemma="à" type="PREP">à</w>
+          <placeName n="0" xml:id="ene.5">
+            <name>
+              <w type="NPr" lemma="">Bellerive</w>
+            </name>
+          </placeName> .</s>
+        <s>
+          <w lemma="par" type="PREP">Par</w>
+          <w lemma="le" type="DET">la</w>
+          <w lemma="route" type="N">route</w>
+          <phr type="verb_phrase" subtype="motion" xml:id="phr.5">
+            <w lemma="aller" type="V" subtype="motion_final">allez</w>
+            <w lemma="à" type="PREP">à</w>
+            <w lemma="le" type="DET">la</w>
+            <term type="N">
+              <w type="N" lemma="">plano</w>
+            </term>
+          </phr> ,<w lemma="prendre" type="V">prendre</w>
+          <w lemma="le" type="DET">le</w>
+          <w lemma="chemin" type="N">chemin</w>
+          <w lemma="jusque" type="PREP">jusqu'</w>
+          <w lemma="à" type="PREP">à</w>
+          <placeName n="1" xml:id="ene.6">
+            <geogName type="" subtype="">
+              <w lemma="le" type="DET">la</w>
+              <geogFeat>
+                <w lemma="route" type="N">route</w>
+              </geogFeat>
+              <w lemma="de" type="PREP">de</w>
+              <placeName n="0" xml:id="ene.7">
+                <name>
+                  <w type="NPr" lemma="">Saint</w>
+                  <w lemma="Jean" type="NPr">Jean</w>
+                  <w lemma="de" type="PREP">de</w>
+                  <w lemma="Marcel" type="NPr">Marcel</w>
+                </name>
+              </placeName>
+            </geogName>
+          </placeName>
+          <w lemma="lieu" type="N">lieu</w>
+          <w lemma="de" type="PREP">de</w>
+          <w lemma="le" type="DET">l'</w>
+          <w lemma="arrivé" type="N">arrivée</w> .</s>
+        <s />
+      </p>
+    </body>
+  </text>
+</TEI>

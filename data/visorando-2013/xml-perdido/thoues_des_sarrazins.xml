@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <!-- title of the resource -->
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p>
+          <!-- Information about distribution of the resource -->
+        </p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>
+          <!-- Information about source from which the resource derives -->
+        </p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>
+          <w lemma="parking" type="N">Parking</w>
+          <offset type="inclusion">
+            <w lemma="au" type="PREPDET">au</w>
+            <w lemma="niveau" type="N">niveau</w>
+            <w lemma="du" type="PREPDET">du</w>
+          </offset>
+          <placeName n="0" xml:id="ene.0">
+            <name>
+              <w type="NPr" lemma="">Boulodrome</w>
+            </name>
+          </placeName> .</s>
+        <s>
+          <phr type="verb_phrase" subtype="motion" xml:id="phr.0">
+            <w lemma="suivre" type="V" subtype="motion_median">Suivre</w>
+            <term type="N">
+              <w lemma="le" type="DET">la</w>
+              <w lemma="direction" type="N">direction</w>
+            </term>
+          </phr>
+          <w type="V" lemma="">Thoues</w>
+          <w lemma="du" type="PREPDET">des</w>
+          <w type="N" lemma="">Sarrazins</w>
+          <w lemma="en" type="PREP">en</w>
+          <w lemma="passer" type="V">passant</w>
+          <w lemma="par" type="PREP">par</w>
+          <w lemma="le" type="DET">le</w>
+          <placeName n="0" xml:id="ene.1">
+            <name>
+              <w type="NPr" lemma="">Bourg</w>
+            </name>
+          </placeName> ,<placeName n="0" xml:id="ene.2">
+            <name>
+              <w lemma="Bel" type="NPr">Bel</w>
+              <w type="NPr" lemma="">Air</w>
+            </name>
+          </placeName> ,<placeName n="0" xml:id="ene.3">
+            <name>
+              <w type="NPr" lemma="">Lamure</w>
+            </name>
+          </placeName> ,<placeName n="0" xml:id="ene.4">
+            <name>
+              <w type="NPr" lemma="">Chervolin</w>
+            </name>
+          </placeName> ,<w lemma="le" type="DET">la</w>
+          <placeName n="0" xml:id="ene.5">
+            <name>
+              <w lemma="Grande" type="NPr">Grande</w>
+              <w type="NPr" lemma="">Goutte</w>
+            </name>
+          </placeName> ,<w lemma="et" type="CONJC">et</w>
+          <phr type="verb_phrase" subtype="motion" xml:id="phr.1">
+            <w lemma="rejoindre" type="V" subtype="motion_final">rejoindre</w>
+            <placeName n="0" xml:id="ene.6">
+              <name>
+                <w type="NPr" lemma="">Duerne</w>
+              </name>
+            </placeName>
+          </phr> .</s>
+        <s />
+      </p>
+    </body>
+  </text>
+</TEI>

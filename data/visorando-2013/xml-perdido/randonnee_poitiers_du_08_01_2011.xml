@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <!-- title of the resource -->
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p>
+          <!-- Information about distribution of the resource -->
+        </p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>
+          <!-- Information about source from which the resource derives -->
+        </p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>
+          <w lemma="voici" type="ADV">Voici</w>
+          <w lemma="le" type="DET">l'</w>
+          <w lemma="itinéraire" type="N">itinéraire</w>
+          <w lemma="pour" type="PREP">pour</w>
+          <w lemma="ce" type="PRO">cette</w>
+          <w lemma="randonnée" type="N">randonnée</w> :<rs type="ene">
+            <rs type="unknown">
+              <term type="unknown">
+                <w lemma="départ" type="N">Départ</w>
+              </term>
+              <placeName n="0" xml:id="ene.0">
+                <name>
+                  <w type="NPr" lemma="">Parc</w>
+                </name>
+              </placeName>
+            </rs>
+          </rs>
+          <w lemma="du" type="PREPDET">des</w>
+          <rs type="ene">
+            <rs type="unknown">
+              <term type="unknown">
+                <w lemma="exposition" type="N">expositions</w>
+              </term>
+              <placeName n="0" xml:id="ene.1">
+                <name>
+                  <w type="NPr" lemma="">Rue</w>
+                  <w lemma="Salvador" type="NPr">Salvador</w>
+                  <w type="NPr" lemma="">Allende</w>
+                </name>
+              </placeName>
+            </rs>
+          </rs> ,<placeName n="0" xml:id="ene.2">
+            <name>
+              <w type="NPr" lemma="">Rue</w>
+              <w lemma="du" type="PREPDET">du</w>
+              <w type="NPr" lemma="">Touffenet</w>
+            </name>
+          </placeName> ,<placeName n="0" xml:id="ene.3">
+            <name>
+              <w type="NPr" lemma="">Rue</w>
+              <w lemma="de" type="PREP">de</w>
+              <w type="NPr" lemma="">Montbernage</w>
+            </name>
+          </placeName> ,<placeName n="1" xml:id="ene.4">
+            <geogName type="R" subtype="ST">
+              <geogFeat>
+                <w lemma="rue" type="N">rue</w>
+              </geogFeat>
+              <w lemma="de" type="PREP">de</w>
+              <w lemma="le" type="DET">la</w>
+              <placeName n="0" xml:id="ene.5">
+                <name>
+                  <w lemma="Croix" type="NPr">Croix</w>
+                  <w lemma="Rouge" type="NPr">Rouge</w>
+                </name>
+              </placeName>
+            </geogName>
+          </placeName> ,<placeName n="0" xml:id="ene.6">
+            <name>
+              <w type="NPr" lemma="">Grand'Rue</w>
+            </name>
+          </placeName> ,<placeName n="1" xml:id="ene.7">
+            <geogName type="R" subtype="ST">
+              <geogFeat>
+                <w lemma="rue" type="N">rue</w>
+              </geogFeat>
+              <w lemma="du" type="PREPDET">des</w>
+              <placeName n="0" xml:id="ene.8">
+                <name>
+                  <w type="NPr" lemma="">Feuillants</w>
+                </name>
+              </placeName>
+            </geogName>
+          </placeName> ,<placeName n="1" xml:id="ene.9">
+            <geogName type="R" subtype="ST">
+              <geogFeat>
+                <w lemma="rue" type="N">rue</w>
+              </geogFeat>
+              <placeName n="0" xml:id="ene.10">
+                <name>
+                  <w type="NPr" lemma="">Riffault</w>
+                </name>
+              </placeName>
+            </geogName>
+          </placeName> ,<placeName n="1" xml:id="ene.11">
+            <geogName type="R" subtype="ST">
+              <geogFeat>
+                <w lemma="rue" type="N">rue</w>
+              </geogFeat>
+              <placeName n="0" xml:id="ene.12">
+                <name>
+                  <w type="NPr" lemma="">Saint</w>
+                  <w type="NPr" lemma="">Opportune</w>
+                </name>
+              </placeName>
+            </geogName>
+          </placeName> ,<w lemma="rue" type="N">rue</w>
+          <w lemma="de" type="PREP">de</w>
+          <w lemma="le" type="DET">l'</w>
+          <w lemma="université" type="N">université</w> (<w lemma="à" type="PREP">A</w>
+          <w lemma="voir" type="V">voir</w> :<rs type="ene">
+            <rs type="unknown">
+              <term type="unknown">
+                <w lemma="médiathèque" type="N">médiathèque</w>
+              </term>
+              <placeName n="0" xml:id="ene.13">
+                <name>
+                  <w type="NPr" lemma="">F.</w>
+                  <w type="NPr" lemma="">Miterrand</w>
+                </name>
+              </placeName>
+            </rs>
+          </rs> ),<w lemma="rue" type="N">rue</w>
+          <w lemma="du" type="PREPDET">des</w>
+          <w lemma="vieux" type="A">vieilles</w>
+          <w lemma="boucherie" type="N">boucheries</w> ,<placeName n="1" xml:id="ene.14">
+            <geogName type="R" subtype="ST">
+              <geogFeat>
+                <w lemma="rue" type="N">rue</w>
+              </geogFeat>
+              <w lemma="du" type="PREPDET">du</w>
+              <placeName n="0" xml:id="ene.15">
+                <name>
+                  <w type="NPr" lemma="">Palais</w>
+                </name>
+              </placeName>
+            </geogName>
+          </placeName> ,<placeName n="0" xml:id="ene.16">
+            <name>
+              <w type="NPr" lemma="">Place</w>
+              <w lemma="Alphonse" type="NPr">Alphonse</w>
+              <w type="NPr" lemma="">Lepetit</w>
+            </name>
+          </placeName> ,<placeName n="1" xml:id="ene.17">
+            <geogName type="R" subtype="ST">
+              <geogFeat>
+                <w lemma="rue" type="N">rue</w>
+              </geogFeat>
+              <placeName n="0" xml:id="ene.18">
+                <name>
+                  <w type="NPr" lemma="">Boncenne</w>
+                </name>
+              </placeName>
+            </geogName>
+          </placeName> ,<placeName n="0" xml:id="ene.19">
+            <name>
+              <w type="NPr" lemma="">Boulevard</w>
+              <w type="NPr" lemma="">Solférino</w>
+            </name>
+          </placeName> ,<placeName n="1" xml:id="ene.20">
+            <geogName type="" subtype="">
+              <geogFeat>
+                <w lemma="boulevard" type="N">boulevard</w>
+              </geogFeat>
+              <placeName n="0" xml:id="ene.21">
+                <name>
+                  <w lemma="Pont" type="NPr">Pont</w>
+                  <w type="NPr" lemma="">Achard</w>
+                </name>
+              </placeName>
+            </geogName>
+          </placeName> ,<w lemma="rue" type="N">rue</w>
+          <w lemma="du" type="PREPDET">des</w>
+          
+          <w lemma="voir" type="V">voir</w> :<w lemma="reste" type="N">restes</w>
+          <w lemma="de" type="PREP">de</w>
+          <w lemma="le" type="DET">l'</w>
+          <w lemma="enceinte" type="N">enceinte</w>
+          <w lemma="médiéval" type="A">médiévale</w>
+          <w lemma="et" type="CONJC">et</w>
+          <w lemma="ancien" type="A">ancienne</w>
+          <w lemma="voie" type="N">voie</w>
+          <w lemma="du" type="PREPDET">du</w>
+          
+          <offset type="orientation">
+            <w lemma="Ouest" type="N">Ouest</w>
+          </offset> ,<w lemma="à" type="PREP">A</w>
+          <offset type="orientation">
+            <w lemma="droit" type="N">droite</w>
+          </offset>
+          <w lemma="avant" type="PREP">avant</w>
+          <w lemma="le" type="DET">l'</w>
+          <w lemma="espace" type="N">espace</w>
+          <w lemma="de" type="PREP">de</w>
+          <w lemma="loisir" type="N">loisirs</w>
+          <w lemma="prendre" type="V">prendre</w>
+          <w lemma="le" type="DET">le</w>
+          <w lemma="chemin" type="N">chemin</w>
+          <phr type="verb_phrase" subtype="motion" xml:id="phr.0">
+            <w lemma="regagner" type="V" subtype="motion_final">regagnant</w>
+            <w lemma="le" type="DET">le</w>
+            <placeName n="0" xml:id="ene.22">
+              <name>
+                <w type="NPr" lemma="">Bd</w>
+                <w type="NPr" lemma="">Clémenceau</w>
+              </name>
+            </placeName> ,<placeName n="0" xml:id="ene.23">
+              <name>
+                <w type="NPr" lemma="">Boulevard</w>
+                <w type="NPr" lemma="">Clémenceau</w>
+              </name>
+            </placeName> ,<placeName n="0" xml:id="ene.24">
+              <name>
+                <w type="NPr" lemma="">Rue</w>
+                <w lemma="Edith" type="NPr">Edith</w>
+                <w type="NPr" lemma="">Piaf,Rue</w>
+                <w lemma="Jean" type="NPr">Jean</w>
+                <w type="NPr" lemma="">Valade</w>
+              </name>
+            </placeName> ,<placeName n="1" xml:id="ene.25">
+              <geogName type="R" subtype="ST">
+                <geogFeat>
+                  <w lemma="rue" type="N">rue</w>
+                </geogFeat>
+                <w lemma="du" type="PREPDET">des</w>
+                <placeName n="0" xml:id="ene.26">
+                  <name>
+                    <w type="NPr" lemma="">Chardonnerets</w>
+                  </name>
+                </placeName>
+              </geogName>
+            </placeName> ,<placeName n="1" xml:id="ene.27">
+              <geogName type="R" subtype="ST">
+                <geogFeat>
+                  <w lemma="rue" type="N">rue</w>
+                </geogFeat>
+                <w lemma="du" type="PREPDET">des</w>
+                <placeName n="0" xml:id="ene.28">
+                  <name>
+                    <w type="NPr" lemma="">Ducs</w>
+                  </name>
+                </placeName>
+              </geogName>
+            </placeName> ,<placeName n="1" xml:id="ene.29">
+              <geogName type="R" subtype="ST">
+                <geogFeat>
+                  <w lemma="rue" type="N">rue</w>
+                </geogFeat>
+                <w lemma="de" type="PREP">de</w>
+                <w lemma="le" type="DET">la</w>
+                <placeName n="0" xml:id="ene.30">
+                  <name>
+                    <w type="NPr" lemma="">Jeunesse,rue</w>
+                    <w lemma="Jean" type="NPr">Jean</w>
+                    <w type="NPr" lemma="">Valade</w>
+                  </name>
+                </placeName>
+              </geogName>
+            </placeName> ,<geogFeat>
+              <w lemma="rue" type="N">rue</w>
+            </geogFeat>
+          </phr>
+          <w lemma="du" type="PREPDET">du</w>
+          <w lemma="petit" type="A">petit</w>
+          <placeName n="0" xml:id="ene.31">
+            <name>
+              <w type="NPr" lemma="">Ruisseau</w>
+            </name>
+          </placeName> ,<placeName n="1" xml:id="ene.32">
+            <geogName type="R" subtype="ST">
+              <geogFeat>
+                <w lemma="rue" type="N">rue</w>
+              </geogFeat>
+              <placeName n="0" xml:id="ene.33">
+                <name>
+                  <w lemma="Guillaume" type="NPr">Guillaume</w>
+                  <w type="NPr" lemma="">Poulle</w>
+                </name>
+              </placeName>
+            </geogName>
+          </placeName> ,<w lemma="rue" type="N">rue</w>
+          <w lemma="du" type="PREPDET">des</w>
+          <w lemma="petit" type="A">petites</w>
+          <w lemma="vallée" type="N">vallées</w> ,<placeName n="1" xml:id="ene.34">
+            <geogName type="R" subtype="ST">
+              <geogFeat>
+                <w lemma="rue" type="N">rue</w>
+              </geogFeat>
+              <placeName n="0" xml:id="ene.35">
+                <name>
+                  <w type="NPr" lemma="">Chevrier</w>
+                </name>
+              </placeName>
+            </geogName>
+          </placeName> ,<placeName n="1" xml:id="ene.36">
+            <geogName type="R" subtype="ST">
+              <geogFeat>
+                <w lemma="rue" type="N">rue</w>
+              </geogFeat>
+              <w lemma="de" type="PREP">de</w>
+              <placeName n="0" xml:id="ene.37">
+                <name>
+                  <w lemma="Fleury" type="NPr">Fleury</w>
+                </name>
+              </placeName>
+            </geogName>
+          </placeName> ,<w lemma="rue" type="N">rue</w>
+          <w lemma="de" type="PREP">de</w>
+          <w lemma="le" type="DET">la</w>
+          <w lemma="souche" type="N">Souche</w> ,<phr type="verb_phrase" subtype="motion" xml:id="phr.1">
+            <w lemma="traverser" type="V" subtype="motion_median">traverser</w>
+            <term type="N">
+              <w lemma="le" type="DET">l'</w>
+              <w lemma="avenue" type="N">avenue</w>
+              <w lemma="de" type="PREP">de</w>
+              <w lemma="le" type="DET">la</w>
+              <w lemma="libération" type="N">libération</w>
+            </term> ,<placeName n="1" xml:id="ene.38">
+              <geogName type="R" subtype="ST">
+                <geogFeat>
+                  <w lemma="rue" type="N">rue</w>
+                </geogFeat>
+                <w lemma="de" type="PREP">de</w>
+                <w lemma="le" type="DET">la</w>
+                <placeName n="0" xml:id="ene.39">
+                  <name>
+                    <w type="NPr" lemma="">Madelaine</w>
+                  </name>
+                </placeName>
+              </geogName>
+            </placeName> ,<term type="N">
+              <w lemma="descente" type="N">descente</w>
+              <w lemma="du" type="PREPDET">des</w>
+              <w lemma="escalier" type="N">escaliers</w>
+            </term>
+          </phr> ,<phr type="verb_phrase" subtype="motion" xml:id="phr.2">
+            <w lemma="traverser" type="V" subtype="motion_median">traversée</w>
+            <offset type="direction" subtype="initial">
+              <w lemma="du" type="PREPDET">du</w>
+            </offset>
+            <placeName n="0" xml:id="ene.40">
+              <name>
+                <w lemma="Clain" type="NPr">Clain</w>
+              </name>
+            </placeName>
+          </phr>
+          <w lemma="par" type="PREP">par</w>
+          <w lemma="le" type="DET">le</w>
+          <w lemma="pont" type="N">pont</w>
+          <w lemma="SNCF" type="N">SNCF</w> ,<w lemma="chemin" type="N">chemin</w>
+          <w lemma="de" type="PREP">de</w>
+          <w lemma="le" type="DET">la</w>
+          <w lemma="grotte" type="N">grotte</w>
+          <w lemma="à" type="PREP">à</w>
+          <placeName n="0" xml:id="ene.41">
+            <name>
+              <w lemma="Calvin" type="NPr">Calvin</w>
+            </name>
+          </placeName> ,<placeName n="1" xml:id="ene.42">
+            <geogName type="R" subtype="ST">
+              <geogFeat>
+                <w lemma="rue" type="N">rue</w>
+              </geogFeat>
+              <w lemma="du" type="PREPDET">du</w>
+              <placeName n="0" xml:id="ene.43">
+                <name>
+                  <w type="NPr" lemma="">Sémaphore</w>
+                </name>
+              </placeName>
+            </geogName>
+          </placeName> ,<w lemma="passerelle" type="N">passerelle</w>
+          <w lemma="sur" type="PREP">sur</w>
+          <w lemma="voie" type="N">voie</w>
+          <w lemma="ferrer" type="V">ferrée</w> ,<placeName n="1" xml:id="ene.44">
+            <geogName type="" subtype="">
+              <geogFeat>
+                <w lemma="chemin" type="N">chemin</w>
+              </geogFeat>
+              <w lemma="de" type="PREP">de</w>
+              <w lemma="le" type="DET">la</w>
+              <placeName n="0" xml:id="ene.45">
+                <name>
+                  <w type="NPr" lemma="">Mérigotte</w>
+                </name>
+              </placeName>
+            </geogName>
+          </placeName> ,<placeName n="1" xml:id="ene.46">
+            <geogName type="" subtype="">
+              <geogFeat>
+                <w lemma="avenue" type="N">avenue</w>
+              </geogFeat>
+              <placeName n="0" xml:id="ene.47">
+                <name>
+                  <w lemma="Rhin" type="NPr">Rhin</w>
+                </name>
+              </placeName>
+            </geogName>
+          </placeName>
+          <w lemma="et" type="CONJC">et</w>
+          <placeName n="0" xml:id="ene.48">
+            <name>
+              <w lemma="Danube" type="NPr">Danube</w>
+            </name>
+          </placeName> ,<placeName n="1" xml:id="ene.49">
+            <geogName type="R" subtype="ST">
+              <geogFeat>
+                <w lemma="rue" type="N">rue</w>
+              </geogFeat>
+              <placeName n="0" xml:id="ene.50">
+                <name>
+                  <w lemma="Normandie" type="NPr">Normandie</w>
+                  <w type="NPr" lemma="">Niemen</w>
+                </name>
+              </placeName>
+            </geogName>
+          </placeName> ,<w lemma="rue" type="N">rue</w>
+          <w lemma="du" type="PREPDET">du</w>
+          <rs type="ene">
+            <rs type="unknown">
+              <term type="unknown">
+                <w lemma="clos" type="N">clos</w>
+              </term>
+              <placeName n="0" xml:id="ene.51">
+                <name>
+                  <w type="NPr" lemma="">Gaultier</w>
+                </name>
+              </placeName>
+            </rs>
+          </rs> ,<placeName n="1" xml:id="ene.52">
+            <geogName type="R" subtype="ST">
+              <geogFeat>
+                <w lemma="rue" type="N">rue</w>
+              </geogFeat>
+              <w lemma="du" type="PREPDET">des</w>
+              <placeName n="0" xml:id="ene.53">
+                <name>
+                  <w type="NPr" lemma="">Gravières</w>
+                </name>
+              </placeName>
+            </geogName>
+          </placeName> ,<w lemma="rue" type="N">rue</w>
+          <w lemma="de" type="PREP">de</w>
+          <placeName n="1" xml:id="ene.54">
+            <geogName type="" subtype="">
+              <w lemma="le" type="DET">la</w>
+              <geogFeat>
+                <w lemma="vallée" type="N">vallée</w>
+              </geogFeat>
+              <placeName n="0" xml:id="ene.55">
+                <name>
+                  <w type="NPr" lemma="">Monnaie</w>
+                </name>
+              </placeName>
+            </geogName>
+          </placeName> ,<w type="N" lemma="">bd</w>
+          <w lemma="de" type="PREP">de</w>
+          <w lemma="le" type="DET">la</w>
+          <w lemma="concorde" type="N">concorde</w> ,<w lemma="rue" type="N">rue</w>
+          <w lemma="de" type="PREP">de</w>
+          <w lemma="le" type="DET">la</w>
+          <w type="N" lemma="">Chatonnerie</w> ,<w lemma="ruer" type="V">rue</w>
+          <w lemma="devoir" type="V">due</w>
+          <placeName n="0" xml:id="ene.56">
+            <name>
+              <w type="NPr" lemma="">Pontreau</w>
+            </name>
+          </placeName> ,<placeName n="1" xml:id="ene.57">
+            <geogName type="" subtype="">
+              <geogFeat>
+                <w lemma="route" type="N">route</w>
+              </geogFeat>
+              <w lemma="de" type="PREP">de</w>
+              <placeName n="0" xml:id="ene.58">
+                <name>
+                  <w type="NPr" lemma="">Gençay</w>
+                </name>
+              </placeName>
+            </geogName>
+          </placeName> ,<placeName n="1" xml:id="ene.59">
+            <geogName type="R" subtype="ST">
+              <geogFeat>
+                <w lemma="rue" type="N">rue</w>
+              </geogFeat>
+              <w lemma="du" type="PREPDET">des</w>
+              <placeName n="0" xml:id="ene.60">
+                <name>
+                  <w type="NPr" lemma="">Villas</w>
+                </name>
+              </placeName>
+            </geogName>
+          </placeName> ,<placeName n="1" xml:id="ene.61">
+            <geogName type="" subtype="">
+              <geogFeat>
+                <w lemma="route" type="N">route</w>
+              </geogFeat>
+              <w lemma="de" type="PREP">de</w>
+              <placeName n="0" xml:id="ene.62">
+                <name>
+                  <w type="NPr" lemma="">Nouaillé</w>
+                </name>
+              </placeName>
+            </geogName>
+          </placeName> ,<w lemma="rue" type="N">rue</w>
+          <w lemma="du" type="PREPDET">du</w>
+          <w lemma="petit" type="A">petit</w>
+          <w lemma="tour" type="N">tour</w> ,<placeName n="1" xml:id="ene.63">
+            <geogName type="R" subtype="ST">
+              <geogFeat>
+                <w lemma="rue" type="N">rue</w>
+              </geogFeat>
+              <placeName n="0" xml:id="ene.64">
+                <name>
+                  <w type="NPr" lemma="">Dolmen</w>
+                </name>
+              </placeName>
+            </geogName>
+          </placeName> (<w lemma="à" type="PREP">à</w>
+          <w lemma="voir" type="V">voir</w>
+          <w lemma="le" type="DET">le</w>
+          <w lemma="dolmen" type="N">dolmen</w> ),<placeName n="1" xml:id="ene.65">
+            <geogName type="R" subtype="ST">
+              <geogFeat>
+                <w lemma="rue" type="N">rue</w>
+              </geogFeat>
+              <w lemma="de" type="PREP">de</w>
+              <placeName n="0" xml:id="ene.66">
+                <name>
+                  <w type="NPr" lemma="">Vaudouzil</w>
+                </name>
+              </placeName>
+            </geogName>
+          </placeName>
+          <phr type="verb_phrase" subtype="motion" xml:id="phr.3">
+            <w lemma="traverser" type="V" subtype="motion_median">traversée</w>
+            <term type="N">
+              <w lemma="rocade" type="N">rocade</w>
+            </term>
+          </phr>
+          <w lemma="être" type="V">est</w> ,<placeName n="1" xml:id="ene.67">
+            <geogName type="R" subtype="ST">
+              <geogFeat>
+                <w lemma="rue" type="N">rue</w>
+              </geogFeat>
+              <placeName n="0" xml:id="ene.68">
+                <name>
+                  <w lemma="Salvador" type="NPr">Salvador</w>
+                  <w type="NPr" lemma="">Allendé</w>
+                </name>
+              </placeName>
+            </geogName>
+          </placeName> ,<placeName n="0" xml:id="ene.69">
+            <name>
+              <w type="NPr" lemma="">Arrivée</w>
+            </name>
+          </placeName>
+          <w lemma="parc" type="N">parc</w>
+          <w lemma="du" type="PREPDET">des</w>
+          <w lemma="exposition" type="N">expositions</w>
+        </s>
+      </p>
+    </body>
+  </text>
+</TEI>
